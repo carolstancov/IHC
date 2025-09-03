@@ -15,14 +15,33 @@ Este projeto se baseia no Trabalho de Conclusão de Curso (TCC) entitulado **An�
 ## Conhecendo o problema
 
 Sobre o produto ou serviço que seu grupo está desenvolvendo, responda:
-- Apresente uma breve descrição.
-- Apresente o objetivo. 
-- Apresente o usuário final.
-- Apresente os principais benefícios para o usuários.
-- Apresente as funcionalidades.
-- Apresente as tecnologias e ferramentas computacionais utilizadas.
-- Apresente o contexto de uso.
-- O produto ou serviço prevê o desenvolvimento de interface? (Sim/Não)
+- Objetivo: Comparar o desempenho de duas estratégias para identificação de oportunidades para operações long-short no mercado de ações, sendo uma tradicional, baseada no coeficiente de correlação de Pearson, e outra moderna, utilizando uma LLM, avaliando qual delas oferece melhores resultados em termos de lucratividade e redução de riscos. Essa comparação será implementada em um software com interface interativa que permita análise visual, sugestões automatizadas e simulação de resultados.
+  
+- Usuário final: Investidores e interessados no uso de inteligência artificial para investimentos.
+  
+- Principais benefícios para o usuários: O usuário poderá comparar de forma prática, os resultados de uma estratégia tradicional com os resultados de uma inteligência artificial, auxiliando na escolha de abordagens mais eficazes e possibilitando uma tomada de decisão mais embasada.
+  
+- Funcionalidades:
+  
+  * Visualizar heatmap interativo de correlação entre ações.
+  
+  * Analisar pares de ações com gráficos históricos e métricas de correlação.
+  
+  * Receber recomendações de pares da LLM e do cálculo das correlações.
+  
+  * Exibir simulação de resultados de estratégias de investimento.
+  
+  * Comparar resultados de estratégias baseadas em correlação e IA.
+
+- Tecnologias e ferramentas computacionais utilizadas:
+
+  * Linguagem Python para processamento e análise de dados.
+  * APIs de mercado financeiro.
+  * LLM para análise e sugestão de estratégias.
+
+- Contexto de uso: O sistema será utilizado por investidores em ambientes que permitam acesso a computadores ou dispositivos conectados à internet. O uso ocorre em um contexto onde o objetivo é analisar dados históricos de ações para identificar oportunidades de operações long-short, comparando estratégias tradicionais (correlação de Pearson) e baseadas em IA (LLM), com base na simulação dos resultados. O processo de interação envolve a visualização de gráficos e heatmaps, análise de pares e interpretação das recomendações geradas pelo sistema.
+  
+- O produto ou serviço prevê o desenvolvimento de interface? Sim
 
 ## Desenvolvimento
 - [Análise de Concorência](docs/2_concorencia.md)
