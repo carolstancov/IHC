@@ -4,17 +4,20 @@
 
 1. HTA
    
-![PHOTO-2025-09-15-20-19-24](https://github.com/user-attachments/assets/c7b1c760-7eef-4276-a34b-b8e68b962e1b)
+![WhatsApp Image 2025-09-17 at 11 39 25](https://github.com/user-attachments/assets/3204cb36-6bad-40e2-829e-cfaec2800251)
 
-<img width="388" height="207" alt="image" src="https://github.com/user-attachments/assets/0918b255-fd89-4b24-b37f-a3bbb0a1347d" />
+<img width="347" height="268" alt="image" src="https://github.com/user-attachments/assets/4b1520b2-4c74-404c-aea8-1efdf7898f5b" />
+
 
 
 
 2. GOMS
 
-<img width="417" height="293" alt="image" src="https://github.com/user-attachments/assets/1bd97230-3f54-418a-8379-38b1f30fba96" />
+<img width="236" height="346" alt="image" src="https://github.com/user-attachments/assets/9e7e1821-b5ed-4d3b-b791-65d19caf4d56" />
+
 
 
 3. CTT
 
-![PHOTO-2025-09-15-20-19-44](https://github.com/user-attachments/assets/323442ce-837a-46b2-9301-7c50249fedf3)
+![WhatsApp Image 2025-09-17 at 11 40 24](https://github.com/user-attachments/assets/8b6b6a99-b09e-4dc8-b77a-84ee5016e299)
+
