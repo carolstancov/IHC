@@ -48,7 +48,7 @@ Sobre o produto ou serviço que seu grupo está desenvolvendo, responda:
 - [Personas](docs/3_personas.md)
 - [Cenário de Análise/Problema](docs/4_cenarios.md)
 - [Análide de Tarefas](docs/5_analise_tarefas.md)
-- [Prototipação em Papel]()
+- [Prototipação em Papel](docs/prototipacao.md)
 - [Coleta de Dados]()
 - [Ciclo de vida da engenharia de usabilidade]()
 - [Modelo Conceitual]() 
