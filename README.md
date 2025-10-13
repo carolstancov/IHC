@@ -51,7 +51,7 @@ Sobre o produto ou serviço que seu grupo está desenvolvendo, responda:
 - [Prototipação em Papel](docs/prototipacao.md)
 - [Coleta de Dados](docs/coleta_dados.md)
 - [Ciclo de vida da engenharia de usabilidade](docs/ciclo_vida.md)
-- [Modelo Conceitual]() 
+- [Modelo Conceitual](docs/modelo_conceitual.md) 
 - [MOLIC]()
 - [FIGMA]()
 - [Planejamento da Avaliação]()
