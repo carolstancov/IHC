@@ -52,7 +52,7 @@ Sobre o produto ou serviço que seu grupo está desenvolvendo, responda:
 - [Coleta de Dados](docs/coleta_dados.md)
 - [Ciclo de vida da engenharia de usabilidade](docs/ciclo_vida.md)
 - [Modelo Conceitual](docs/modelo_conceitual.md) 
-- [MOLIC]()
+- [MOLIC](docs/molic.md)
 - [FIGMA]()
 - [Planejamento da Avaliação]()
 - [Avaliação de IHC através de Inspeção Heurística]()
