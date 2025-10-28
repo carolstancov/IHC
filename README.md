@@ -53,7 +53,7 @@ Sobre o produto ou serviço que seu grupo está desenvolvendo, responda:
 - [Ciclo de vida da engenharia de usabilidade](docs/ciclo_vida.md)
 - [Modelo Conceitual](docs/modelo_conceitual.md) 
 - [MOLIC](docs/molic.md)
-- [FIGMA]()
+- [FIGMA](docs/figma.md)
 - [Planejamento da Avaliação]()
 - [Avaliação de IHC através de Inspeção Heurística]()
 - [Avaliação de Usabilidade baseado em Observação do Usuário]()
