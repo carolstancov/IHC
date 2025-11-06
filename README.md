@@ -56,4 +56,4 @@ Sobre o produto ou serviço que seu grupo está desenvolvendo, responda:
 - [FIGMA](docs/figma.md)
 - [Planejamento da Avaliação](docs/planejamento_avaliacao.md)
 - [Avaliação de IHC através de Inspeção Heurística](docs/heuristica.md)
-- [Avaliação de Usabilidade baseado em Observação do Usuário](docs/usuario.md)
+- [Avaliação de Usabilidade baseado em Observação do Usuário](docs/observacao_usuario.md)
